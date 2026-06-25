@@ -1,3 +1,5 @@
+Atue como um especialista em educação financeira digital.
+
 Crie a ideia de um Educador Financeiro Inteligente voltado para trabalhadores que gastam pequenas quantias de dinheiro ao longo do dia e acabam comprometendo suas finanças sem perceber.
 
 O principal problema dessas pessoas é que elas acreditam que não conseguem guardar dinheiro e faze-lo durar porque ganham pouco, mas não percebem o impacto acumulado dos pequenos gastos impulsivos.
